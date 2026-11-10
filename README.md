@@ -1,4 +1,4 @@
-# git init
+# Bioinformatics Algorithms on Human Gene Sequences
 
 ---
 
