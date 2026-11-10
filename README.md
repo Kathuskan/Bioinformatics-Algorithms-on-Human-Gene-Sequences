@@ -1,7 +1,5 @@
 # Bioinformatics Algorithms on Human Gene Sequences
 
----
-
 ## Overview
 
 This assignment applies three fundamental algorithmic paradigms — **basic sequence analysis**, **greedy algorithms**, and **divide & conquer** — to real human gene sequences retrieved from NCBI. All sequences are stored locally as FASTA files and processed entirely in pure Python (no external bioinformatics libraries).
